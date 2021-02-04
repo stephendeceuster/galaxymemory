@@ -99,6 +99,71 @@
             "id" : "20",
             "name" : "Kylo Ren",
             "filename" : "kylo-ren.jpg"
+        },
+        {
+            "id" : "21",
+            "name" : "Lando Calrissian",
+            "filename" : "lando-calrissian.jpg"
+        },
+        {
+            "id" : "22",
+            "name" : "Leia Organa",
+            "filename" : "leia-organa.jpg"
+        },
+        {
+            "id" : "23",
+            "name" : "Luke Skywalker",
+            "filename" : "luke-skywalker.jpg"
+        },
+        {
+            "id" : "24",
+            "name" : "Mace Windu",
+            "filename" : "mace-windu.jpg"
+        },
+        {
+            "id" : "25",
+            "name" : "Padme",
+            "filename" : "padme.jpg"
+        },
+        {
+            "id" : "26",
+            "name" : "Poe Dameron",
+            "filename" : "poe-dameron.jpg"
+        },
+        {
+            "id" : "27",
+            "name" : "Porg",
+            "filename" : "porg.jpg"
+        },
+        {
+            "id" : "28",
+            "name" : "R2-D2",
+            "filename" : "r2d2.jpg"
+        },
+        {
+            "id" : "29",
+            "name" : "Red Guard",
+            "filename" : "red-guard.jpg"
+        },
+        {
+            "id" : "30",
+            "name" : "Rey",
+            "filename" : "rey.jpg"
+        },
+        {
+            "id" : "31",
+            "name" : "Tauntaun",
+            "filename" : "tauntaun.jpg"
+        },
+        {
+            "id" : "32",
+            "name" : "Vulptex",
+            "filename" : "vulptex.jpg"
+        },
+        {
+            "id" : "33",
+            "name" : "Yoda",
+            "filename" : "yoda.jpg"
         }
     ]
 
