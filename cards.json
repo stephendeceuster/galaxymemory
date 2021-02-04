@@ -1,0 +1,105 @@
+{
+    "cards": [
+        {
+          "id" : "01",
+          "name" : "Anakin Child",
+          "filename" : "anakin-child.jpg"
+        },
+        {
+            "id" : "02",
+            "name" : "Anakin",
+            "filename" : "anakin.jpg"
+        },
+        {
+            "id" : "03",
+            "name" : "Bantha",
+            "filename" : "bantha.jpg"
+        },
+        {
+            "id" : "04",
+            "name" : "Boba Fett",
+            "filename" : "boba-fett.jpg"
+        },
+        {
+            "id" : "05",
+            "name" : "C-3PO",
+            "filename" : "c3po.jpg"
+        },
+        {
+            "id" : "06",
+            "name" : "Captain Merumeru",
+            "filename" : "captain-merumeru.jpg"
+        },
+        {
+            "id" : "07",
+            "name" : "Captain Phasma",
+            "filename" : "captain-phasma.jpg"
+        },
+        {
+            "id" : "08",
+            "name" : "Chewbacca",
+            "filename" : "chewbacca.jpg"
+        },
+        {
+            "id" : "09",
+            "name" : "Cloud Riders",
+            "filename" : "cloud-riders.jpg"
+        },
+        {
+            "id" : "10",
+            "name" : "Count Dooku",
+            "filename" : "count-dooku.jpg"
+        },
+        {
+            "id" : "11",
+            "name" : "Darth Maul",
+            "filename" : "darth-maul.jpg"
+        },
+        {
+            "id" : "12",
+            "name" : "Darth Sidious",
+            "filename" : "darth-sidious.jpg"
+        },
+        {
+            "id" : "13",
+            "name" : "Darth Vader",
+            "filename" : "darth-vader.jpg"
+        },
+        {
+            "id" : "14",
+            "name" : "Stormtrooper on Dewback",
+            "filename" : "dewback.jpg"
+        },
+        {
+            "id" : "15",
+            "name" : "D-O",
+            "filename" : "do.jpg"
+        },
+        {
+            "id" : "16",
+            "name" : "R2-D2 & C-3PO",
+            "filename" : "droids.jpg"
+        },
+        {
+            "id" : "17",
+            "name" : "Ewok",
+            "filename" : "ewok.jpg"
+        },
+        {
+            "id" : "18",
+            "name" : "Han Solo",
+            "filename" : "han-solo.jpg"
+        },
+        {
+            "id" : "19",
+            "name" : "Jabba The Hutt",
+            "filename" : "jabba-the-hutt.jpg"
+        },
+        {
+            "id" : "20",
+            "name" : "Kylo Ren",
+            "filename" : "kylo-ren.jpg"
+        }
+    ]
+
+}
